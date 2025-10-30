@@ -1,9 +1,7 @@
 # 🌿 Jazeera Nursery — Digital Marketing Project  
 ### DEPI Digital Marketing Specialist - Group 3
 
-<div align="center">
-
----
+<div>
 
 ## 💡 Project Name
 **Al Jazeera Nursery**
