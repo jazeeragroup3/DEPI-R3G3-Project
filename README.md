@@ -11,6 +11,9 @@
 ---
 </div>
 <div>
+  
+---
+
 ## 🚀 Project Idea
 Our project focuses on promoting **Al Jazeera Nursery**, a local plant nursery aiming to expand its online presence and boost sales through effective digital marketing strategies.  
 We developed a comprehensive marketing plan that enhances brand awareness, engages audiences, and drives both **page followers** and **product purchases**.
