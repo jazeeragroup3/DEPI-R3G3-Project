@@ -20,12 +20,9 @@ We developed a comprehensive marketing plan that enhances brand awareness, engag
 
 | Role | Member |
 |------|---------|
-| Project Manager | **Mohammad Mesbah** |
-| Marketing Strategist | **Ehab Mohamed** |
-| Content Creator | **Mariam Khaled** |
-| Graphic Designer | **Khaled Mahmoud** |
-| Social Media Manager | **Ahmed Fawzy** |
-| Presentation & Research | **Rana Salah** |
+| Project Manager & Social media manager | **Mohammad Mesbah** |
+| Marketing Strategist & Presentation | **Ehab Mohamed** |
+| Content Creator & Graphic Designer | **Mariam Khaled** |
 
 ---
 
@@ -65,12 +62,9 @@ We developed a comprehensive marketing plan that enhances brand awareness, engag
 ---
 
 ## 🧩 Roles & Responsibilities
-- **Mohammad Mesbah:** Project coordination, strategy writing, and presentation lead  
-- **Ehab Mohamed:** Competitor research and KPI design  
-- **Mariam Khaled:** Content creation and copywriting  
-- **Khaled Mahmoud:** Graphic design and brand identity  
-- **Ahmed Fawzy:** Social media planning and analytics tracking  
-- **Rana Salah:** Research documentation and presentation visuals  
+- **Mohammad Mesbah:** Project coordination, and presentation lead, and Research documentation and presentation visuals.  
+- **Ehab Mohamed:**  Strategy writing, Competitor research and KPI design, Social media planning and analytics tracking.   
+- **Mariam Khaled:** Content creation and copywriting, Graphic design and brand identity. 
 
 ---
 
